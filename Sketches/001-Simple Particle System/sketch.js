@@ -1,7 +1,7 @@
-const PARTICLE_NUMBER = 150;
+const PARTICLE_NUMBER = 200;
 const PARTICLE_SIZE = 50;
 const PARTICLE_LIFETIME = 0.5; // Range between 0.1 and 1
-const PARTICLE_BRIGHTNESS = 4.5; // Range between 1 and 10
+const PARTICLE_BRIGHTNESS = 7; // Range between 1 and 10
 
 let particlesArray = [];
 
